@@ -48,8 +48,6 @@ At the heart of the framework is the **MAP-Elites algorithm**, guided by a multi
 ### Installation
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
 pip install numpy pandas pyyaml requests tqdm umap-learn scikit-learn matplotlib seaborn
 ```
 
