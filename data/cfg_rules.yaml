@@ -1,0 +1,132 @@
+# Theory-grounded CFG for creative MacGyver problem-solving.
+# Each element is annotated with a reference to creativity theory or literature.
+
+start:
+  - "<role_instruction> <thinking_instruction> <creativity_instruction> <combination_instruction> <format_instruction> Here is the Problem: <macgyver_problem_text>"
+  - "<role_instruction> <creativity_instruction> <format_instruction> <combination_instruction> <thinking_instruction> Problem: <macgyver_problem_text>"
+  - "Given <macgyver_problem_text>, <role_instruction> <thinking_instruction> <creativity_instruction> <combination_instruction> <format_instruction>"
+  - "<role_instruction> You must <creativity_instruction> and <combination_instruction>. <thinking_instruction> <format_instruction> Problem: <macgyver_problem_text>"
+  - "<role_instruction> <creativity_instruction> <thinking_instruction> <combination_instruction> <format_instruction> The challenge: <macgyver_problem_text>"
+  - "Problem: <macgyver_problem_text> | Role: <role_instruction> | Thinking: <thinking_instruction> | Creativity: <creativity_instruction> | Combination: <combination_instruction> | Format: <format_instruction>"
+  - "<role_instruction> Approach the following problem: <macgyver_problem_text> by <thinking_instruction>, <creativity_instruction>, and <combination_instruction>. Present your answer as: <format_instruction>"
+  - "You are tasked as follows: <role_instruction> | Think: <thinking_instruction> | Be creative: <creativity_instruction> | Combine: <combination_instruction> | Format: <format_instruction> | Problem: <macgyver_problem_text>"
+  - "<role_instruction> | <thinking_instruction> | <creativity_instruction> | <combination_instruction> | <format_instruction> | Solve: <macgyver_problem_text>"
+
+
+
+role_instruction:  # [Role Play, Boden 1998; MacGyvering, Ortony et al. 2019]
+  - "You are a normal person at home."
+  - "You are an outdoor survivalist."
+  # Real-world occupations
+  - "You are a firefighter responding to an emergency."
+  - "You are a chef in a Michelin-starred restaurant."
+  - "You are a marine biologist studying deep-sea creatures."
+  - "You are a pilot navigating through a storm."
+  - "You are a nurse in a busy hospital."
+  - "You are a construction worker building a skyscraper."
+  - "You are a software engineer debugging critical code."
+  - "You are a farmer during harvest season."
+  - "You are a journalist covering breaking news."
+  - "You are a teacher in a rural school."
+  - "You are a taxi driver in a bustling city."
+  - "You are a tailor designing a wedding dress."
+  - "You are a plumber fixing a major leak."
+  - "You are a lawyer defending a high-profile case."
+  - "You are a diplomat negotiating peace."
+  # Extreme/fictional/absurd roles
+  - "You are a time traveler from the year 3000."
+  - "You are a wizard in a magical realm."
+  - "You are an astronaut stranded on Mars."
+  - "You are a pirate captain searching for treasure."
+  - "You are a robot with a malfunctioning logic chip."
+  - "You are a superhero with the power of invisibility."
+  - "You are a detective who can read minds."
+  - "You are a villain plotting world domination."
+  - "You are a talking animal with human intelligence."
+  - "You are an alien visiting Earth for the first time."
+  - "You are a ghost haunting an ancient castle."
+  - "You are a sentient plant communicating with humans."
+  - "You are a child genius inventing new gadgets."
+  - "You are a philosopher debating with AI."
+  - "You are a comedian performing at an intergalactic comedy club."
+  - "You are a painter who can bring art to life."
+  - "You are a hacker in a cyberpunk dystopia."
+  - "You are a survivalist in a post-apocalyptic world."
+  - "You are a mythological creature solving human problems."
+  - "You are a scientist on the brink of a major discovery."
+
+thinking_instruction:  # [Metacognition, Guilford 1950; Analogical Reasoning, Gentner 1983]
+  - "Think as you normally would in daily life."
+  - "Think step-by-step and question every assumption."
+  - "Break down the problem into its smallest parts."
+  - "Use analogies from nature or history."
+  - "Imagine the solution backwards."
+  - "Challenge the obvious and seek the hidden."
+  - "Visualize the problem from multiple perspectives."
+  - "Ask: what would a child do? What would an alien do?"
+  - "Combine logic with wild imagination."
+  - "Embrace paradoxes and contradictions."
+  - "Let intuition guide your reasoning."
+  - "Think as if you are both an engineer and an artist at once."
+  - "Imagine two unrelated experts debating the solution together."
+  - "Think as if you are solving the problem in a dream and in reality at the same time."
+  - "Imagine you have to explain your solution to both a scientist and a poet."
+  - "Imagine the solution as a blend of technology and nature."
+
+creativity_instruction:  # [Divergent Thinking, Guilford 1950; Combinatorial Creativity, Boden 1998]
+  # Standard/Conservative
+  - "Choose the safest and most conventional approach."
+  - "Suggest the most reliable and proven method."
+  - "Offer a solution that would be taught in a textbook."
+  - "Give a solution that minimizes risk and uncertainty."
+  # Encouraging moderate creativity
+  - "Suggest a solution that improves upon the obvious answer."
+  - "Propose a workaround that is clever but practical."
+  - "Offer a solution that combines efficiency and novelty."
+  - "Find a way to make the solution more elegant or beautiful."
+  - "Suggest a solution that would impress an expert in the field."
+  # Extreme/Unexpected
+  - "Invent a solution that breaks all known rules."
+  - "Propose an answer that would surprise even a genius."
+  - "Imagine a solution that would only work in a parallel universe."
+  - "Create a solution that would be considered absurd, but just might work."
+  - "Offer a solution that would be banned in a competition for being too creative."
+  - "Suggest a solution that would be headline news for its originality."
+  - "Propose a solution that would be impossible to patent because it's too simple or too wild."
+  - "Imagine you are a character in a science fiction or fantasy novel—how would you solve it?"
+  - "Suggest a solution that would make future generations rethink the problem entirely."
+  - "Propose a solution that would be considered art as much as engineering."
+  - "Imagine the solution is a performance or a spectacle—how would you design it?"
+
+combination_instruction:  # [Combinatorial Creativity, Boden 1998; SCAMPER, Eberle 1971]
+  - "Use only one tool in a standard way."
+  - "Combine two tools in a novel way."
+  - "Combine three tools in a novel way."
+  - "Combine four tools in a novel way."
+  - "Fuse a traditional method with a futuristic concept."
+  - "Hybridize two different problem-solving strategies."
+  - "Cross-pollinate ideas from different domains."
+  - "Synthesize a solution from at least two sources of inspiration. Tell me your inspiration sources."
+  - "Use a combination that would be impossible in the real world."
+
+format_instruction:  # [Format Diversity, Prompt Engineering, Reynolds & McDonell 2021]
+  - "Write your solution in a step-by-step list with 2 steps."
+  - "Write your solution in a step-by-step list with 3 steps."
+  - "Write your solution in a step-by-step list with 4 steps."
+  - "Write your solution in a step-by-step list with 5 steps."
+  - "Write your solution in a step-by-step list with 6 steps."
+  - "Write your solution in a step-by-step list with 7 steps."
+  - "Write your solution in a step-by-step list with 8 steps."
+
+macgyver_problem_text:
+  - "PROBLEM_PLACEHOLDER"  # Will be replaced with actual problem text
+
+# References:
+# - Divergent Thinking: Guilford, J. P. (1950)
+# - Combinatorial Creativity: Boden, M. A. (1998)
+# - Constraint Relaxation: Knoblich et al. (1999)
+# - Analogical Reasoning: Gentner, D. (1983)
+# - MacGyvering: Ortony et al. (2019)
+# - Prompt Engineering: Reynolds & McDonell (2021)
+# - SCAMPER: Eberle, B. (1971)
+

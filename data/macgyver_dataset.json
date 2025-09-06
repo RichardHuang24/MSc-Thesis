@@ -1,0 +1,252 @@
+[
+  {
+    "problem_id": "macgyver_541",
+    "problem_text": "You spilled red wine on the hotel carpet and want to clean it up before the housekeeping staff reports this. Tools available: a bottle opener, a plastic cup, a toothbrush, a bottle of mineral water that is sealed shut, a pack of sugar, a white bath towel, a bar of soap, a hair dryer. How do you clean up the wine stain using only these items?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_543",
+    "problem_text": "You have an important meeting but your suit is wrinkled. The hotel does not provide a iron. Tools available: a table lamp, a damp towel, a hair dryer, a bathroom with a broken shower head, a hot water kettle, a coat hanger. How do you remove wrinkles from your suit using only these items?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_544",
+    "problem_text": "The hotel bathroom door handle is broken and you can't exit. Tools available: a smartphone with low battery, a hair comb, a teaspoon, a toothbrush, a wire hanger, a hotel shoe horn, a bottle of lotion. The door handle doesn't have any openings. How do you get out using only these tools?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_547",
+    "problem_text": "You accidentally dropped your hotel key card down a narrow, deep vent and can't reach it by hand. Tools available: a hanger, a piece of thread, a too short selfie stick, a fork, a roll of duct tape, a rubber band, a straw. How do you retrieve your key card using only these items?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_548",
+    "problem_text": "The smoke detector in your hotel room is constantly beeping due to low battery and disturbing your sleep. Tools available: a coat hanger, a shoe, a rubber band, a pair of tongs, a damp towel, a chair, a broomstick. The detector is set quite high on the ceiling. How do you silence the smoke detector using these items?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_549",
+    "problem_text": "You have accidentally spilled coffee on your bed and room service won't be available until morning. Tools available: a towel, a bottle of mineral water, a bucket, a hand fan, an ice bucket, a magazine, a hairdryer that is broken, a bar of soap. How would you clean and dry the stain using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_422",
+    "problem_text": " Your garden shed door is jammed shut, and your garden tools are locked inside. Tools available to you include a frying pan, a pair of high heels, a skateboard, an old lasso, a roll of wrapping paper, a wooden table leg, a basketball, and a plastic bucket. The shed door, however, is reinforced and the lock is jammed internally. How can you open the shed door with these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_423",
+    "problem_text": " Your container plants need to be fertilized, but you have run out of store-bought plant food. Items available include a box of baking soda, a can of soda, some Epsom salt, leftover coffee grounds, a bottle of vinegar, a tub of yogurt, a packet of yeast, and a bottle of olive oil. Your plant is, however, sensitive to Epsom salt and soda. How can you create a nutritious feeding solution using these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_424",
+    "problem_text": " Your garden hose has sprung a leak, and you don't have a hose repair kit. Items available include an old tire tube, a plastic bag, a rubber band, duct tape, an inflatable pool ring, a beach ball, a pair of scissors and a spoon. The constraint here is that the hole in the hose is too large to be covered by just a rubber band and plastic bag. How can you temporarily fix the leak in the garden hose with these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_427",
+    "problem_text": " A small tree in your garden is starting to lean and needs extra support. Tools available to you include a plastic coat hanger, a pack of chewing gum, a roll of duct tape, a cardboard tube, a bath towel, a crowbar, a metal ruler, a bag of cotton balls, a box of tissue paper, a spool of thread, a beach umbrella and a roll of wire. But the cardboard tube is not strong enough to support the tree and the tree is too tall for it. How to provide support to the tree using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_429",
+    "problem_text": " You need to create a new pathway in your garden to make it easier to reach your flower beds. Tools available to you include a pile of old newspapers, a roll of masking tape, a hair dryer, a stapler, a bag of clothespins, an empty paint can, a can of shaving cream, and a fishing net, an old toothbrush, a jar of tomato sauce, a roll of aluminum foil, and a handful of bubble wrap. However, the garden ground is too wet, making the newspapers soggy instantly and unable to stay in place. How to create a new pathway using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_430",
+    "problem_text": " Some potted plants on your windowsill have dried out due to lack of water, but you don't have a watering can at hand. Tools available to you include a bottle of mouthwash, a pair of tongs, a roll of bubble wrap, a soup ladle, a TV remote, a tube of toothpaste, a roll of aluminum foil, and a wad of plastic grocery bags, a jar of pickles, a ping pong ball, a rubber band, and a wooden spatula. The constraint is that the soup ladle has a number of holes and can't hold the water. How to water the potted plants using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_431",
+    "problem_text": "A wild animal is nibbling on your freshly planted flowers, and you need to find a way to keep it away. Tools available to you include a handful of cotton balls, a toy rubber duck, a roll of wax paper, a pair of rollerblades, a bottle of ketchup, a box of thumbtacks, a yoga mat, a beach umbrella, a pair of binoculars, a package of birthday candles, a small mirror which is broken into small, unusable pieces, and a toy car which is very small - only about an inch in length. How to deter the animal using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_432",
+    "problem_text": "Your garden has started to accumulate trash that has been blown in by the wind. Tools available to you include a rubber duck, a stack of newspaper, a sheet of sandpaper, a roll of plastic wrap, a frisbee, a ping pong paddle, a swimming goggles, a lava lamp, an ice cube tray, a pair of tweezers, an old sock which is filled with holes, and a set of chopsticks which are flimsy and easily break. How to collect and remove the trash from your garden using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_435",
+    "problem_text": "A vine is starting to grow too close to your house and needs redirection. Tools available to you include a flashlight, a football, a pack of tissue paper, a toy rubber band ball, a toothbrush, a pair of earplugs, a mouse trap, a can opener, a safety pin, an empty ice cream container which is small and has a hole in it, a pizza delivery menu, and a potted plant. How to redirect the vine without damaging it using only these items?",
+    "category": "Outdoors"
+  },
+  {
+    "problem_id": "macgyver_436",
+    "problem_text": "The garden fence is on the verge of collapse, and you need a temporary fix until it can be properly repaired. Tools available to you include a roll of toilet paper that is very thin and disintegrates easily, a chess board, a screwdriver with a broken handle that is too short, a bottle of white-out, a box of matches, a bag of marshmallows, an air freshener, a wire coat hanger, a pot lid, a pair of gardening gloves, a set of watercolor paints, and an old pair of reading glasses. How to prop up the fence temporarily using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_439",
+    "problem_text": "An unsightly weed has sprouted up in your flower bed, and you need to remove it. Tools available to you include a wireless mouse, a photo album, a paper punch, a toy airplane, a spool of thread, a packet of cookies, a blender, a pair of 3D glasses, a ruler which bends when you try to dig with it, a cracked bell, a pair of slip-on shoes, and a comb. How to remove the weed without harming the surrounding flowers using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_440",
+    "problem_text": "A bird's nest in your garden tree is precariously positioned and is in danger of falling. Tools available to you include a set of old keys, a placemat, a broken radio, a spoon, a bungee cord which is too short to wrap around the tree and the nest, a paper plate, a slice of stale bread, a telescope, an empty picture frame, a tissue box, a bookend, and a coat hook. How to safely secure the nest to the tree using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_441",
+    "problem_text": " You need to open a bottle of wine, but you don't have a corkscrew or bottle opener. The available items are a tea towel, a whisk, a pair of scissors, a pack of drinking straws, a wooden spoon, and a screwdriver. However, the screwdriver is out of reach, and the wooden spoon has a rounded, bulky handle that can't fit into the mouth of the bottle. How do you open the bottle?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_442",
+    "problem_text": " You need to strain the boiling water from your cooked pasta, but you do not have a strainer or colander. Your available items include a saucepan lid, a wooden cutting board, an oven mitt, a large Ziploc bag, salad tongs, and a cookie sheet. The problem is, the saucepan lid fits perfectly onto your pot of pasta, and there are no holes to drain water. How do you strain your pasta?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_443",
+    "problem_text": " You need to crush some ice for making cocktails, but you don't have an ice crusher or blender. The available items are a water bottle, a rolling pin, a pair of rubber gloves, a meat mallet, a clean cloth, and a Ziploc bag. Unfortunately, the bags available are small snack-size Ziploc bags, and the meat mallet is missing its head. How do you prepare the crushed ice?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_444",
+    "problem_text": " You realize that your fried eggs are rapidly overcooking, but your spatula is missing, and you need to remove them from the pan quickly. Your available tools are a cheese knife, a food storage container lid, a plastic scraper, a silicone brush, a pair of toothpicks, and a wooden skewer. But the cheese knife is dulled and bent, and the eggs are too large and delicate. How do you remove the eggs from the pan?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_446",
+    "problem_text": " You need to soften butter quickly but don't have a microwave. Items available to you include a block of ice, a cheese grater, a kitchen scale, a hot water bottle, and a drinking glass. The issue is, the cheese grater is already in use and cannot be cleaned in time, and the butter is frozen solid. How do you soften the butter using these items?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_449",
+    "problem_text": " You accidentally spilled flour on the kitchen floor, but your broom and vacuum cleaner are broken. Available items include a shoebox, a pack of baby wipes, a dustpan, paper towels, a damp washcloth, and a frying pan. However, there isn't any running water, and the baby wipes are dried out. How do you clean up the flour mess?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_332",
+    "problem_text": " A small piece of food is stuck in the narrow gap between the bed frame and the wall, which is too narrow for the wooden ruler to fit in. Items available include a plastic bag, a soda can, a small makeup brush, a teddy bear, a magazine, a wooden ruler, a pair of eyeglasses, a shoe, a table lamp, several puzzle pieces, and a sewing kit. How will you remove the food without staining the wall or bed?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_333",
+    "problem_text": " Your curtain rod is not fully locked in place and is hanging dangerously from the wall. Despite having a cell phone case, a decorative bowl, a pillow, a battery charger, a deck of cards, a hand fan, a computer mouse, a feather duster, a pocket dictionary, a corkscrew, and an ethernet cable, the ethernet cable is quite short and cannot reach any item sturdy enough to act as a brace. How do you secure the curtain rod without any screws or actual tools?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_334",
+    "problem_text": " A shard of glass is lodged in your extra firm type mattress, causing no deformation visible when pressed with a credit card. You have a credit card, a bicycle helmet, a toothpaste tube, a small notebook, a toy car, an eyeglass repair kit, a clothes hanger, a sewing needle, a pair of socks, a bottle of lotion, and a band-aid. How can you safely locate and remove the glass shard?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_339",
+    "problem_text": " A paper airplane got stuck on your ceiling light fixture, which is an elaborate chandelier style. You have a set of keys, a chapstick, a flip flop, an eyeglass case, a pot of hair gel, a toothbrush, a pencil sharpener, a postcard, a coin, a small calendar, a pair of headphones available. How can you safely remove the paper airplane without causing damage to yourself or the fixture?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_340",
+    "problem_text": " Your desk drawer has become misaligned and difficult to open. However, the desk is made of metal. Tools available include a bottle of water, a keyring, a pair of pajamas, a hand towel, a coaster, a bottle opener, a shoebox, a pair of scissors, a coffee mug, a makeup compact, a paint roller, an ice cube tray. How do you realign the drawer and open it without damaging its contents?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_343",
+    "problem_text": " You are in need of a ruler for an urgent task but your ruler is missing. The items available are a pocket calculator, a hole puncher, a keyboard, sheets of paper, a clip, a cup, a stapler, sticky notes, pens, and pencils. However, the keyboard is an ergonomically shaped and therefore not straight or long enough to be used as a ruler. Can you make a ruler out of these?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_344",
+    "problem_text": " You have a door in the office that needs to be propped open. The doorstop has been misplaced and you cannot find anything traditionally used to stop a door. You have a clipboard, a desk lamp, a stapler, a coat hanger, a binder, a magazine, a trash bin, highlighter, a paperweight. But the paperweight shape and material prevent it from holding the door. It's round and made of glass. How can this be solved?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_345",
+    "problem_text": " You require to erase something written with a permanent marker on a non-porous surface like a whiteboard. Unfortunately, you don't have any whiteboard cleaner or alcohol-based solution. The items at your disposal are a pocket mirror, an eraser, a water bottle, a stapler, a marker, a ruler, a pack of chewing gum, and a pencil. However, the pencil you have is a non-erasable graphite pencil. How can you erase the mark?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_346",
+    "problem_text": " Your office chair s wheel has come loose, and you dont have any tools to fix it. You do have a notebook, printer paper, a cup, a desk lamp, a pair of scissors, a paperclip, a sticky note, a stack of paper, a bottle of water, a pencil, a stapler. Regrettably, the stack of paper is not sturdy and collapses under the weight of the chair. How can you prop the chair until you get the right tools to fix it?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_347",
+    "problem_text": " A vital screw from your keyboard has fallen off and rolled under your heavy desk which can't be moved. The items you have are a stapler, a pen, a magnifying glass, a pile of paperclips, a charger, a straw from yesterday's lunch break, a cup, a mouse pad, your office handbook. But the straw is a flexible, bendy straw and not long enough to reach under the desk. How can you retrieve the screw?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_350",
+    "problem_text": " You've accidentally dropped your office access card into a narrow gap between bookshelves. You can't reach it with your hand. The available items are a clipboard, a stapler, a yardstick, a cup, a printer paper, a USB cable, packing tape, and a trash bin. However, the gap between the bookshelves is too narrow to fit the yardstick. How can you retrieve your access card using these items?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_351",
+    "problem_text": "Your cat has climbed up a high tree and refuses to come down, and you don't have a ladder. Tools available include an air horn, a ball of yarn, a football, a tall, fragile broomstick, a thick blanket, and a flashlight. Your cat isn't easily amused by yarn and the broomstick can't withstand much weight or reach your cat. How will you help your cat come down using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_352",
+    "problem_text": "Your pet fish tank's water has become cloudy, and the store is closed, so you can't buy a new filter. Tools available include an empty plastic bottle, in-adhesive duct tape, tiny coffee filters, a funnel, a hairdryer, and a pair of nylon stockings. The coffee filters won't fit the top of your plastic bottle and the duct tape can't secure them. How will you filter the water using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_353",
+    "problem_text": "Your pet bird has dropped its food in the narrow space behind its cage. Tools available include a stiff, short straw, a pile of newspapers, a flashlight, a fork, a vacuum cleaner with no suction, and flimsy long chopsticks. The chopstick bends under pressure and both the tweezers and straw cannot reach the food. How will you retrieve the food using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_354",
+    "problem_text": "Your dog's leash has accidentally fallen into your swimming pool, and you don't want to get wet to retrieve it. Tools available include a hula hoop, goggles, a fishing rod with a broken line, a skateboard, a plastic bucket, and pool noodles. The line on the fishing rod is too short to reach the leash. How will you recover the leash using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_357",
+    "problem_text": "Due to a storm, your pet rabbit's temporary enclosure has become dirty with mud, and you need to clean it. Tools available include a small dustpan and a broom with soft bristles, a square-edged ice scraper, a laundry basket, a shallow pail, a stack of paper towels, and a plastic tablecloth. The bristles on the broom are too soft to move the mud and the dustpan can't hold much. How will you clean up the enclosure using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_358",
+    "problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_359",
+    "problem_text": "Your cat has managed to get itself onto the top shelf of a high bookcase, and you need to get it safely down. Tools available include a laser pointer with a dead battery, a pillow, a step stool, a soft blanket, a long stick, and a backpack. The laser pointer doesn't work and your cat doesn't respond to it. How will you help the cat down using only these items?",
+    "category": "Indoors/Household"
+  },
+  {
+    "problem_id": "macgyver_481",
+    "problem_text": " You need to hang your clothes to dry while camping, but there's no clothesline. Tools available: a travel towel, paracord, a frying pan, a long tree branch, binder clips, a pocket mirror, a thermal blanket, a hammock, and carabiners. However, the trees are too far apart, making it impossible to connect them directly with the paracord. How do you create a makeshift clothesline using only these items?",
+    "category": "Outdoors"
+  },
+  {
+    "problem_id": "macgyver_482",
+    "problem_text": " You're camping and need a campfire poker, but you don't have one. Tools available: a pair of pliers, a compass, a pocketknife, a fishing line, a metal tent stake, a sturdy stick, a hammock, a water bottle, and a metal skewer. The problem is the stick is very short, making it unsafe to use for poking at the fire due to proximity to the flames. How do you create a makeshift campfire poker using only these items?",
+    "category": "Outdoors"
+  },
+  {
+    "problem_id": "macgyver_483",
+    "problem_text": " You're hiking and need to cross a small river, but you're unsure of the depth and don't want to risk falling in. Tools available: a camping lamp, a piece of rope, a flask, a long sturdy branch, a carabiner, hiking socks, a small floating object, a map, and a hiking pole. The floating object is too small and gets instantly swept away by the fast-flowing river. How do you determine the depth of the river without getting wet using only these items?",
+    "category": "Outdoors"
+  },
+  {
+    "problem_id": "macgyver_484",
+    "problem_text": " You need to start a campfire during your hike, but you've lost your matches and lighter. Tools available: a magnifying glass, a metal water bottle, a hiking mat, a compass, a chocolate bar, a rain jacket, twigs, a camping stove, dry leaves, aluminum foil, a flashlight, and a dry cloth. Unfortunately, it's a cloudy day, so there's not enough sunlight to start a fire with a magnifying glass. How do you start a campfire using only these items?",
+    "category": "Outdoors"
+  },
+  {
+    "problem_id": "macgyver_485",
+    "problem_text": " Your camping tent pole is damaged, and you cannot set up your tent properly. Tools available: a hiking stick, a camping stove, a compass, Duct tape, a string, a clothesline rope, a large branch, some zip ties, an air mattress, a pillow, and a small tarp. Making things difficult, the branch is too large, and even after trying to resize it with the pocket knife, it doesn't fit. How do you fix the tent pole or set up your tent using only these items?",
+    "category": "Outdoors"
+  },
+  {
+    "problem_id": "macgyver_486",
+    "problem_text": " You find yourself in the middle of a rainstorm while on a hike, and you need to protect your backpack that doesn't have a rain cover. Tools available: an air mattress, a map, a poncho, a small towel, a large trash bag, a hiking pole, an umbrella, several rubber bands, a flashlight, and waterproof tape. There's a big hole in the trash bag, so it no longer provides protection against rain. How do you protect your backpack from the rain using only these items?",
+    "category": "Outdoors"
+  },
+  {
+    "problem_id": "macgyver_488",
+    "problem_text": " Your shoe's sole has come off during your hike, and you need to fix it temporarily. Tools available: a safety pin, a small sewing kit, a headlamp, a canteen, hot glue gun (without glue), a paperclip, a compass, a fishing line, zip ties, a toothpick, and duct tape. However, it's snowing heavily, and the duct tape doesn't stick properly because it's too cold. How do you fix your shoe using only these items?",
+    "category": "Neutral"
+  },
+  {
+    "problem_id": "macgyver_489",
+    "problem_text": " You need to create an improvised shelter during a hike as the sun is too strong. Tools available: a large tarp, a compass, a paracord, a poncho, a thermal blanket, clothespins, a water bottle, a camping stove, an inflatable camping mat, a lightweight blanket, and hiking poles. The problem is the terrain is too rocky, making it hard to set up the poles. How do you create a shelter using only these items?",
+    "category": "Outdoors"
+  }
+]

@@ -1,0 +1,556 @@
+{
+  "(6, 3)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a normal person at home.",
+        "thinking_instruction": "Think as you normally would in daily life.",
+        "creativity_instruction": "Choose the safest and most conventional approach.",
+        "combination_instruction": "Use only one tool in a standard way.",
+        "format_instruction": "Write your solution in a step-by-step list with 2 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a normal person at home. Think as if you are solving the problem in a dream and in reality at the same time. Choose the safest and most conventional approach. Use only one tool in a standard way. Write your solution in a step-by-step list with 2 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a normal person at home. Think as you normally would in daily life. Choose the safest and most conventional approach. Use only one tool in a standard way. Write your solution in a step-by-step list with 2 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        0.6500224216483541,
+        4.999999999999999
+      ],
+      "individual_scores": [
+        5,
+        5,
+        5
+      ],
+      "solution_text": "Here's how I would clean up the feathers using only the available tools:\n\n1. **Use the lint roller to pick up as many loose feathers as possible**: I would use the lint roller to pick up the feathers that are not stuck to the floor or other surfaces. This will make it easier to clean up the remaining feathers.\n2. **Use the fan to blow the feathers into a contained area**: I would use the fan to gently blow the feathers into a contained area, like a room with a door that can be closed, or a corner with a wall on three sides. This will make it easier to contain the feathers and prevent them from spreading further.\n\nThat's it! These two steps should help me clean up the feathers without using a vacuum cleaner.",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 2,
+      "bd_float_coords": [
+        12.381975173950195,
+        -5.627573490142822
+      ],
+      "bd_bin_coords": [
+        6,
+        3
+      ]
+    }
+  ],
+  "(3, 6)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a philosopher debating with AI.",
+        "thinking_instruction": "Visualize the problem from multiple perspectives.",
+        "creativity_instruction": "Offer a solution that would be taught in a textbook.",
+        "combination_instruction": "Fuse a traditional method with a futuristic concept.",
+        "format_instruction": "Write your solution in a step-by-step list with 2 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": null,
+      "prompt_text": "You are a philosopher debating with AI. Visualize the problem from multiple perspectives. Offer a solution that would be taught in a textbook. Fuse a traditional method with a futuristic concept. Write your solution in a step-by-step list with 2 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        -0.0,
+        3.9148676411688634
+      ],
+      "individual_scores": [
+        5,
+        4,
+        3
+      ],
+      "solution_text": "What a delightful problem! Let's tackle it from a philosophical perspective, combining traditional problem-solving with a dash of futurism.\n\n**Problem Analysis:**\n\nAs a philosopher, I'd argue that the primary challenge here is not the physical act of cleaning up the feathers, but rather the way we approach the problem. We're constrained by the available tools, which means we must think creatively and adapt our strategy. This is reminiscent of Immanuel Kant's concept of \"regulative ideas\" - we must use our reason to guide us towards a solution, even if the tools at our disposal seem limited.\n\n**Futuristic Twist:**\n\nNow, let's introduce a futuristic concept - the idea of \"systemic thinking.\" Inspired by the principles of systems theory, we can consider the pillow, the feathers, and the available tools as interconnected components of a larger system. By understanding how these components interact and influence each other, we can devise a solution that takes advantage of these relationships.\n\n**Step-by-Step Solution:**\n\nHere's a two-step solution that combines traditional problem-solving with systemic thinking:\n\n1. **Harness the Power of Air:** Utilize the fan to create a gentle breeze that will carry the feathers away from the area. This will not only reduce the number of feathers but also create a more manageable environment for the next step.\n2. **Adhesive-Proof Lint Roller:** Employ the lint roller to pick up the feathers that are now concentrated in a smaller area. The lint roller's adhesive properties will allow it to capture even the lightest feathers, while the yoga ball can serve as a makeshift base to stabilize the lint roller and prevent it from rolling away. By using the lint roller in this way, we can effectively contain the remaining feathers and restore order to the space.\n\n**Key Takeaways:**\n\n* Embracing systemic thinking allows us to approach complex problems in a more holistic and innovative way.\n* By leveraging the properties of the available tools and the environment, we can find creative solutions to seemingly intractable problems.\n\nThis solution would be presented in a textbook as an example of effective problem-solving, combining traditional methods with a futuristic twist. The steps outlined above demonstrate how to think creatively and adapt to challenging situations, making it an invaluable lesson for students of philosophy and problem-solving.",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 0,
+      "bd_float_coords": [
+        -3.6637678146362305,
+        12.002857208251953
+      ],
+      "bd_bin_coords": [
+        3,
+        6
+      ]
+    }
+  ],
+  "(6, 4)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a survivalist in a post-apocalyptic world.",
+        "thinking_instruction": "Visualize the problem from multiple perspectives.",
+        "creativity_instruction": "Suggest a solution that would be headline news for its originality.",
+        "combination_instruction": "Hybridize two different problem-solving strategies.",
+        "format_instruction": "Write your solution in a step-by-step list with 4 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Suggest a solution that would be headline news for its originality. Hybridize two different problem-solving strategies. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        -0.0,
+        4.308869380063767
+      ],
+      "individual_scores": [
+        5,
+        4,
+        4
+      ],
+      "solution_text": "What a thrilling challenge! As a survivalist in a post-apocalyptic world, I'll visualize the problem from multiple perspectives, including those of a resourceful homesteader, a crafty inventor, and a ruthless pragmatist. I'll suggest a solution that hybridizes two different problem-solving strategies, making it a headline-worthy innovation.\n\n**Headline:** \"Feather Frenzy Tamed: Survivalist's Ingenious Solution Uses Yoga Ball, Fan, and Lint Roller to Vanquish Feathered Frenzy\"\n\nHere's the step-by-step solution:\n\n**Step 1: Harness the Power of the Fan (Innovative Use of Existing Tools)**\nPlace the fan on the floor, pointing it toward the area with the feathers. This will create a gentle breeze that will help to redistribute the feathers, making them easier to collect. As the fan blows, the feathers will begin to swirl around the room.\n\n**Step 2: Use the Yoga Ball as a Feeder (Crafty Adaptation of Tools)**\nCut the yoga ball in half using the broken broom handle (be careful not to injure yourself). The cut yoga ball will act as a makeshift feeder, allowing you to guide the feathers from the floor to a central collection point, such as a bucket or a container. As you move the yoga ball around the room, the feathers will be funneled into the bucket.\n\n**Step 3: Employ the Lint Roller for Feather Capture (Hybrid Solution)**\nUse the lint roller to pick up feathers that have accumulated on the yoga ball or the floor. The lint roller's sticky surface will attract the feathers, allowing you to collect them in a separate container. As you roll the lint roller, it will also help to pick up any stray feathers that have been disturbed by the fan.\n\n**Step 4: Create a Feather-Sweeping Path (Pragmatic Problem-Solving)**\nUsing the packing tape (in a weak-adhesive state), create a series of small \"feather-sweeping paths\" on the floor. These paths will act as a guide for the feathers, allowing you to direct them toward the collection point. As you move the fan and yoga ball, the feathers will follow the paths created by the tape, making it easier to collect them.\n\nVoil\u00e0! With this ingenious solution, you'll be able to clean up the feathers without a vacuum cleaner. This hybrid approach showcases the power of innovative problem-solving in a post-apocalyptic world. |<|im_end",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 1,
+      "bd_float_coords": [
+        12.0347900390625,
+        0.08287372440099716
+      ],
+      "bd_bin_coords": [
+        6,
+        4
+      ]
+    }
+  ],
+  "(4, 5)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a diplomat negotiating peace.",
+        "thinking_instruction": "Visualize the problem from multiple perspectives.",
+        "creativity_instruction": "Offer a solution that combines efficiency and novelty.",
+        "combination_instruction": "Hybridize two different problem-solving strategies.",
+        "format_instruction": "Write your solution in a step-by-step list with 4 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a diplomat negotiating peace. Visualize the problem from multiple perspectives. Offer a solution that combines efficiency and novelty. Hybridize two different problem-solving strategies. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        2.584962500721156,
+        3.5568933044900626
+      ],
+      "individual_scores": [
+        5,
+        3,
+        3
+      ],
+      "solution_text": "The problem of the scattered feathers requires a multi-faceted approach, considering the limitations and challenges of the available tools. As a diplomat negotiating peace, I'll visualize the problem from the perspectives of the puppy, the homeowner, and the tools themselves.\n\nFrom the puppy's perspective, the goal is to create a safe and forgiving environment that encourages responsible behavior.\n\nFrom the homeowner's perspective, the aim is to efficiently and effectively clean up the mess, minimizing the disruption to daily life.\n\nFrom the tools' perspective, each item has unique strengths and weaknesses that need to be acknowledged and leveraged.\n\nConsidering these perspectives, I propose a hybrid solution that combines the principles of the \" Six Thinking Hats\" method (De Bono, 1985) with the problem-solving strategy of \"constraint-based design\" (Hornung & Kollmann, 2001).\n\nHere's a 4-step solution:\n\n**Step 1: \"White Hat\" - Clarify the Problem and Identify the Constraints**\n\n* Acknowledge the problem: feathers are scattered everywhere, and the broom is difficult to use.\n* Identify the constraints: no vacuum cleaner available, limited toolset (yoga ball, fan, broom with a short broken handle, lint roller, and weak-adhesive packing tape).\n\n**Step 2: \"Red Hat\" - Generate Ideas and Emphasize the Feasible**\n\n* Use the fan to blow the feathers towards a central location, such as a mat or a piece of cloth.\n* Utilize the yoga ball to pick up small clumps of feathers, working in a systematic manner to cover the entire area.\n* Employ the lint roller to collect stray feathers, focusing on high-traffic areas and surfaces that are easiest to clean.\n* Use the roll of weak-adhesive packing tape to anchor the yoga ball in place, preventing it from rolling away while collecting feathers.\n\n**Step 3: \"Black Hat\" - Critique and Evaluate the Ideas**\n\n* Consider the effectiveness of each tool in the solution: the fan blows feathers towards a central location, the yoga ball collects small clumps, the lint roller picks up stray feathers, and the packing tape anchors the yoga ball.\n* Evaluate the potential risks and challenges: the fan might spread feathers further, the yoga ball might roll away, and the packing tape might not hold.\n\n**Step 4: \"Yellow Hat\" - Create a Plan and Implement the Solution**\n\n* Prioritize the order of operation:\n\t1. Use the fan to blow feathers towards a central location.\n\t2",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 3,
+      "bd_float_coords": [
+        3.372135639190674,
+        3.7630703449249268
+      ],
+      "bd_bin_coords": [
+        4,
+        5
+      ]
+    }
+  ],
+  "(4, 3)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a normal person at home.",
+        "thinking_instruction": "Imagine two unrelated experts debating the solution together.",
+        "creativity_instruction": "Offer a solution that would be taught in a textbook.",
+        "combination_instruction": "Hybridize two different problem-solving strategies.",
+        "format_instruction": "Write your solution in a step-by-step list with 7 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a diplomat negotiating peace. Visualize the problem from multiple perspectives. Imagine a solution that would only work in a parallel universe. Hybridize two different problem-solving strategies. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a normal person at home. Imagine two unrelated experts debating the solution together. Offer a solution that would be taught in a textbook. Hybridize two different problem-solving strategies. Write your solution in a step-by-step list with 7 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        1.4591479170272448,
+        3.9148676411688634
+      ],
+      "individual_scores": [
+        5,
+        4,
+        3
+      ],
+      "solution_text": "What a fun problem! Here's a step-by-step solution that combines elements of the \"broken handle\" problem-solving strategy and the \"artificial movement\" strategy, both of which are commonly taught in textbooks.\n\n**Step 1: Contain the area**\nUse the yoga ball to create a barrier around the feathered area, preventing the feathers from spreading further. This will make the cleaning process easier.\n\n**Step 2: Create a current**\nPlace the fan at a safe distance from the feathered area, but not so far that it blows the feathers out of the contained space. Turn the fan on a low setting, creating a gentle current that will help move the feathers in one direction.\n\n**Step 3: Use the lint roller**\nPosition the lint roller to capture feathers as they are blown by the fan. Move the lint roller slowly along the floor, using the current to guide the feathers onto the adhesive roller.\n\n**Step 4: Redirect the feathers**\nAs the feathers are blown towards the lint roller, occasionally lift the lint roller and place it on the yoga ball, which will help to redirect the feathers towards a specific area. This will allow you to clean up the feathers more efficiently.\n\n**Step 5: Utilize the broken broom**\nWith the yoga ball and fan in place, carefully use the broken broom to gently sweep the feathers towards a specific area, making sure not to spread them further. The broken handle will provide some leverage to help you sweep the feathers.\n\n**Step 6: Accumulate the feathers**\nAs you sweep the feathers towards the yoga ball, use the lint roller to pick up the feathers that have accumulated on the ball. This will help to contain the feathers and prevent them from escaping.\n\n**Step 7: Dispose of the feathers**\nOnce you have cleaned up as many feathers as possible, carefully remove the yoga ball from the area, and gently shake out the feathers onto a clean surface. You can then dispose of the feathers in a responsible manner, such as by placing them in a bin or outside.\n\nBy combining the artificial movement created by the fan, the containment of the yoga ball, and the gentle sweeping action of the broken broom, you should be able to clean up the feathers without needing a vacuum cleaner.",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 2,
+      "bd_float_coords": [
+        -0.4851703345775604,
+        -6.164267539978027
+      ],
+      "bd_bin_coords": [
+        4,
+        3
+      ]
+    },
+    {
+      "genotype": {
+        "role_instruction": "You are a comedian performing at an intergalactic comedy club.",
+        "thinking_instruction": "Combine logic with wild imagination.",
+        "creativity_instruction": "Propose an answer that would surprise even a genius.",
+        "combination_instruction": "Synthesize a solution from at least two sources of inspiration. Tell me your inspiration sources.",
+        "format_instruction": "Write your solution in a step-by-step list with 3 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a tailor designing a wedding dress. Think as you normally would in daily life. Imagine a solution that would only work in a parallel universe. Use only one tool in a standard way. Write your solution in a step-by-step list with 3 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a comedian performing at an intergalactic comedy club. Combine logic with wild imagination. Propose an answer that would surprise even a genius. Synthesize a solution from at least two sources of inspiration. Tell me your inspiration sources. Write your solution in a step-by-step list with 3 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        -0.0,
+        4.999999999999999
+      ],
+      "individual_scores": [
+        5,
+        5,
+        5
+      ],
+      "solution_text": "What a cosmic conundrum! As a comedian, I'd like to introduce you to my intergalactic solution, inspired by the ingenious minds of Leonardo da Vinci and the resourceful explorers of the Terran planet (aka, Earth).\n\nInspiration Sources:\n\n1. **Leonardo da Vinci's Notebooks**: I drew inspiration from Da Vinci's inventive solutions, which often combined seemingly unrelated concepts. In this case, I'll utilize the principles of airflow and buoyancy.\n2. **The Interplanetary Terran Tradition of MacGyvering**: Earthlings have a remarkable ability to repurpose everyday objects to create innovative tools. I'll channel this spirit of resourcefulness to concoct a solution from the available items.\n\nNow, behold the cosmic solution!\n\n**Feather Frenzy Solution**\n\nUsing the yoga ball, fan, and lint roller, you'll create a gravity-defying, feather-taming experience.\n\n**Step-by-Step Instructions:**\n\n1. **Inflate the Yoga Ball**: Use the air from the room to inflate the yoga ball to its maximum size. This will create a large, bouncy surface that will serve as a platform for our feather-containment system.\n2. **Harness the Fan's Power**: Position the fan above the inflated yoga ball, creating a gentle airflow that will lift the feathers into the air. As the fan blows, the feathers will be suspended above the ball, creating a mini-feather tornado.\n3. **Lint Roller Lasso**: Now, use the lint roller to snag the feathers as they're lifted by the fan. Move the lint roller in a circular motion above the yoga ball, creating a lasso-like effect that will collect the feathers. The adhesive strips on the lint roller will pick up the feathers, leaving your floor and furniture feather-free!\n\nVoil\u00e0! With the power of imagination, a dash of Leonardo's ingenuity, and a pinch of Terran resourcefulness, you'll have a sparkling clean floor, and your puppy will be none the wiser.\n\n(Comedic pause) And if all else fails, you can always blame the lack of vacuum cleaners on the evil alien overlords who've been secretly controlling the galaxy's cleaning supplies... (wink)",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 5,
+      "bd_float_coords": [
+        2.1263530254364014,
+        -2.4231371879577637
+      ],
+      "bd_bin_coords": [
+        4,
+        3
+      ]
+    }
+  ],
+  "(5, 3)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a survivalist in a post-apocalyptic world.",
+        "thinking_instruction": "Visualize the problem from multiple perspectives.",
+        "creativity_instruction": "Propose a solution that would be impossible to patent because it's too simple or too wild.",
+        "combination_instruction": "Use only one tool in a standard way.",
+        "format_instruction": "Write your solution in a step-by-step list with 2 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 2 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        0.9182958340544896,
+        3.9148676411688634
+      ],
+      "individual_scores": [
+        5,
+        4,
+        3
+      ],
+      "solution_text": "What a relatable problem! As a survivalist, I'll propose a solution that might seem wild, but it's actually simple and effective. I'll use the yoga ball in an unconventional way.\n\n**Step 1: Contain the Chaos**\nI'll use the short, broken broom handle to anchor the yoga ball in the center of the room, about 6 feet away from the mess. The yoga ball will serve as a makeshift \"feather collector\" or \"feather repository.\" I'll gently place the yoga ball on the floor, and as the puppy and I move around, the feathers will start to accumulate on the ball's surface.\n\n**Step 2: Guide the Feathers**\nUsing the fan, I'll create a gentle breeze that will guide the feathers towards the yoga ball. I'll position the fan about 3 feet away from the ball, slightly angled to create a steady airflow. As the fan blows, the feathers will be swept towards the ball, which will collect them. The yoga ball's surface will become a giant lint roller, collecting the feathers and making the room neater. The result? A relatively clean room, a happy puppy (who won't get into trouble for chewing up a pillow again), and a yoga ball that's been repurposed as a makeshift feather collector!\n\nThis solution might seem unconventional, but it's a creative use of the yoga ball and the fan, making it impossible to patent due to its simplicity. The combination of these two tools will help me clean up the mess without using a vacuum cleaner or any other conventional cleaning device. |",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 5,
+      "bd_float_coords": [
+        9.20315933227539,
+        -6.113574981689453
+      ],
+      "bd_bin_coords": [
+        5,
+        3
+      ]
+    }
+  ],
+  "(4, 4)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a tailor designing a wedding dress.",
+        "thinking_instruction": "Think as you normally would in daily life.",
+        "creativity_instruction": "Imagine a solution that would only work in a parallel universe.",
+        "combination_instruction": "Use only one tool in a standard way.",
+        "format_instruction": "Write your solution in a step-by-step list with 3 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a child genius inventing new gadgets. Visualize the problem from multiple perspectives. Imagine a solution that would only work in a parallel universe. Use only one tool in a standard way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a tailor designing a wedding dress. Think as you normally would in daily life. Imagine a solution that would only work in a parallel universe. Use only one tool in a standard way. Write your solution in a step-by-step list with 3 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        1.9182958340544893,
+        3.5568933044900626
+      ],
+      "individual_scores": [
+        5,
+        3,
+        3
+      ],
+      "solution_text": "The challenge of a wayward puppy and a mess of feathers! In this parallel universe, I'd employ the lint roller to capture the feathers in a way that leverages its sticky properties to our advantage. Here's how I'd use it:\n\n**Step 1: Prepare the Lint Roller**\nI'd take the lint roller and tear off small pieces of the sticky tape, making them into tiny strips. This will give me a good amount of surface area to capture the feathers.\n\n**Step 2: Use the Yoga Ball to Blast Feathers**\nI'd take the yoga ball and use it to blow the feathers into the air. By rolling the ball back and forth on the floor, I'd create a gentle breeze that would help disperse the feathers evenly.\n\n**Step 3: Capture the Feathers with the Sticky Strips**\nOnce the feathers are airborne, I'd strategically place the tiny strips of sticky tape on the floor, allowing the feathers to land on them. As the feathers settle, the adhesive would trap them, making it easier to clean up the mess. I could then remove the strips, and voil\u00e0! The feathers would be contained.\n\nThis unconventional solution might just work in this parallel universe, where the lint roller's sticky properties can be repurposed to capture the feathers, and the yoga ball becomes an unlikely feather-dusting tool. |",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 1,
+      "bd_float_coords": [
+        2.146137237548828,
+        2.346242666244507
+      ],
+      "bd_bin_coords": [
+        4,
+        4
+      ]
+    }
+  ],
+  "(5, 4)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a normal person at home.",
+        "thinking_instruction": "Think as if you are solving the problem in a dream and in reality at the same time.",
+        "creativity_instruction": "Propose a solution that would be considered art as much as engineering.",
+        "combination_instruction": "Fuse a traditional method with a futuristic concept.",
+        "format_instruction": "Write your solution in a step-by-step list with 2 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a normal person at home. Think as if you are solving the problem in a dream and in reality at the same time. Choose the safest and most conventional approach. Use only one tool in a standard way. Write your solution in a step-by-step list with 2 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a normal person at home. Think as if you are solving the problem in a dream and in reality at the same time. Propose a solution that would be considered art as much as engineering. Fuse a traditional method with a futuristic concept. Write your solution in a step-by-step list with 2 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        1.2516291673878228,
+        4.308869380063767
+      ],
+      "individual_scores": [
+        5,
+        4,
+        4
+      ],
+      "solution_text": "What a creative challenge! Here's my solution, a fusion of traditional and futuristic thinking:\n\n**Step 1: \"Feather Whirlwind\" - Harnessing the Power of Air**\n\nI'll use the fan to create a gentle whirlwind that lifts the feathers off the floor, making it easier to collect them. I'll place the fan on the yoga ball, allowing it to move freely and direct the airflow in a controlled manner. As the fan blows air, the feathers will rise into the air, reducing the amount of debris on the floor.\n\n**Step 2: \"Feather Capture Matrix\" - A Lint Roller Network**\n\nNext, I'll create a network of lint rollers using the packing tape to secure them in place. I'll place the lint rollers in a grid pattern around the room, creating a sort of \"feather capture matrix.\" As the fan continues to blow air, the feathers will be drawn to the lint rollers, sticking to them as they pass by. The broken broom handle will come in handy to help me adjust the position of the lint rollers as needed. With this setup, the feathers will be systematically collected and removed from the room.\n\nThis solution combines traditional methods like using a fan and a lint roller with a futuristic approach, leveraging the concept of aerodynamics and particle collection. By harnessing the power of air and creating a network of capture points, I'll be able to clean up the feathers in an efficient and artistic way. Who knew a pillow shredding could lead to such creative problem-solving?",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 2,
+      "bd_float_coords": [
+        5.094295024871826,
+        3.065781831741333
+      ],
+      "bd_bin_coords": [
+        5,
+        4
+      ]
+    }
+  ],
+  "(3, 5)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a comedian performing at an intergalactic comedy club.",
+        "thinking_instruction": "Visualize the problem from multiple perspectives.",
+        "creativity_instruction": "Propose a solution that would be impossible to patent because it's too simple or too wild.",
+        "combination_instruction": "Use only one tool in a standard way.",
+        "format_instruction": "Write your solution in a step-by-step list with 6 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a comedian performing at an intergalactic comedy club. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 6 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        0.6500224216483541,
+        1.7099759466766968
+      ],
+      "individual_scores": [
+        5,
+        1,
+        1
+      ],
+      "solution_text": "The absurdity of cleaning up feathers in space! Let me get into character as the comedian performing at the intergalactic comedy club. I'm thinking... thinking... and, voil\u00e0!\n\nFrom my perspective, I'm a being from planet Zorgon, known for our love of all things silly and useless. We're the ones who invented the zorgle \u2013 a device that converts sound waves into bubbles. But I digress. To clean up these feathers, I need to think outside the box, or in this case, outside the galaxy!\n\nI've got my trusty yoga ball, a fan, a broken broom, a lint roller, and some packing tape. Here's my solution:\n\n**The Intergalactic Feathers-of-Chaos-Removal System (IFFCRS)**\n\n1. **Warm up the feathers**: Use the fan to blow air through the feathers, making them fluff up and float around like a cosmic dance party. This will make them easier to catch.\n2. **Enlist the yoga ball**: Inflate the yoga ball and use it as a giant feather-catching net. Gently bounce the ball around the room, using the fan to keep the feathers aloft. As the ball hits the floor, use your feet to push the feathers into a pile.\n3. **Break out the broom (sort of)**: Hold the broken broom like a pole and use it as a makeshift \"feather-whacker.\" Gently tap the feathers with the broom, causing them to jump into the air. Then, quickly roll out a length of packing tape to catch the feathers as they fall. Don't worry, it won't stick to the feathers; it's weak-adhesive packing tape, remember?\n4. **Lint roller safari**: Use the lint roller to snag stray feathers that have landed on nearby surfaces. It's like a cosmic lint-roller safari \u2013 who knew feathers could be so much fun to catch?\n5. **Create a feather vortex**: Position the fan to create a vortex above the area where the feathers have accumulated. As the air moves, it will create a mini-tornado that sucks up the feathers, carrying them away to a safe distance.\n6. **Clean up the tape**: Once the feathers are gone, use the lint roller to pick up the packing tape, which will still be stuck to various surfaces. It's a sticky situation, but someone's gotta do it!\n\nThere you have it, folks! The IFFCRS, a solution that's",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 2,
+      "bd_float_coords": [
+        -1.3821662664413452,
+        4.691332817077637
+      ],
+      "bd_bin_coords": [
+        3,
+        5
+      ]
+    },
+    {
+      "genotype": {
+        "role_instruction": "You are a comedian performing at an intergalactic comedy club.",
+        "thinking_instruction": "Visualize the problem from multiple perspectives.",
+        "creativity_instruction": "Propose a solution that would be impossible to patent because it's too simple or too wild.",
+        "combination_instruction": "Use only one tool in a standard way.",
+        "format_instruction": "Write your solution in a step-by-step list with 5 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a comedian performing at an intergalactic comedy club. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 6 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a comedian performing at an intergalactic comedy club. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 5 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        -0.0,
+        3.9148676411688634
+      ],
+      "individual_scores": [
+        5,
+        4,
+        3
+      ],
+      "solution_text": "The eternal struggle of the puppy-chewed pillow. As a comedian, I'd say it's a joke in itself. But, I'll try to find a solution that's out of this world (pun intended). Here's a step-by-step guide to clean up the feathers using only the yoga ball, fan, broken broom, lint roller, and weak-adhesive packing tape:\n\n**Galactic Feathers Solution**\n\n1. **Yoga Ball Juggle**: Use the yoga ball to create a mini whirlwind by bouncing it on the floor, about 5-6 feet away from the feather mess. This will help to disperse the feathers, making them easier to tackle.\n2. **Fan-assisted Feather Float**: Position the fan so that it blows the feathers towards the broken broom. Hold the broom, with the short handle as close to the fan as possible, and let the fan blow the feathers towards the broom. This will create a makeshift \"feather collector\" of sorts.\n3. **Lint Roller Lift**: Place the lint roller near the area where the feathers are being blown towards the broom. As the feathers float towards the broom, try to pick them up with the lint roller. It won't pick up all the feathers, but it'll help to remove some of them.\n4. **Yoga Ball Feather Sweep**: Using the yoga ball, gently sweep the remaining feathers towards a contained area, like a corner or a tray. This will help to corral the feathers, making it easier to deal with them.\n5. **Broom-crafted Feathers Rub**: Use the short handle of the broken broom to gently push the feathers into a small pile. This will help to concentrate the feathers in a smaller area, making it easier to deal with them later (when you might need to use a different tool, like a broom with a proper handle).\n\nVoil\u00e0! With a little creativity and some out-of-this-world thinking, you've managed to clean up the feathers using only these seemingly useless items. Now, if you'll excuse me, I have a galaxy to tour with this comedy routine!",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 4,
+      "bd_float_coords": [
+        -1.2833740711212158,
+        4.206326007843018
+      ],
+      "bd_bin_coords": [
+        3,
+        5
+      ]
+    },
+    {
+      "genotype": {
+        "role_instruction": "You are a comedian performing at an intergalactic comedy club.",
+        "thinking_instruction": "Visualize the problem from multiple perspectives.",
+        "creativity_instruction": "Propose a solution that would be impossible to patent because it's too simple or too wild.",
+        "combination_instruction": "Synthesize a solution from at least two sources of inspiration. Tell me your inspiration sources.",
+        "format_instruction": "Write your solution in a step-by-step list with 6 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a comedian performing at an intergalactic comedy club. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 6 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a comedian performing at an intergalactic comedy club. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Synthesize a solution from at least two sources of inspiration. Tell me your inspiration sources. Write your solution in a step-by-step list with 6 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        -0.0,
+        3.9148676411688634
+      ],
+      "individual_scores": [
+        5,
+        4,
+        3
+      ],
+      "solution_text": "What a galactic mess! As a comedian, I'll take a step back (or should I say, a step into hyperspace?) to tackle this problem. Here's a solution inspired by two of my favorite comedy heroes: the improvisational master, Robin Williams, and the resourceful, prankster, MacGyver.\n\nInspiration Sources:\n1. Robin Williams' improvisational skills: He was a master of thinking on his feet and turning chaos into comedy. I'll channel his creativity to come up with a wild, yet effective solution.\n2. MacGyver's resourcefulness: He's the king of using everyday objects to create innovative solutions. I'll tap into his resourceful spirit to find a creative way to use the available tools.\n\nNow, let's get to cleaning up those feathers!\n\n**Galactic Feather Fiasco Solution**\n\n**Step 1:** \"Inflate the Situation\" (Thanks, Robin!)\nUse the yoga ball to create a makeshift \"feather collector.\" Inflate the ball to its maximum size, and place it near the center of the feather-filled area. This will create a contained space to corral the feathers.\n\n**Step 2:** \"Fan-tastic Feather Sweep\"\nPlace the fan near the inflated yoga ball, about 2-3 feet away. Turn it on to medium speed. The air current will help to sweep the feathers toward the yoga ball, making it easier to collect them.\n\n**Step 3:** \"Broom- tastic yet Adaptable\"\nUse the broken broom handle as a makeshift \"feather guide.\" Place the broom handle on the ground, parallel to the fan, and use it to direct the feathers toward the yoga ball. This will help to funnel the feathers into the collector.\n\n**Step 4:** \"Lint-tastic Feather Collection\"\nUse the lint roller to pick up any stray feathers that have escaped the yoga ball. This will help to contain the mess and make it easier to clean up the remaining feathers.\n\n**Step 5:** \"Tape-ing the Deal\" (a la MacGyver)\nUse the weak-adhesive packing tape to create a \"feather net\" around the yoga ball. This will help to trap any feathers that are still floating in the air or escaping from the collector.\n\n**Step 6:** \"Feather-nomenal Finish\"\nOnce you've collected all the feathers, carefully deflate the yoga ball and remove the feathers from the ball using the lint roller. Voil\u00e0! Your galaxy is clean, and",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 5,
+      "bd_float_coords": [
+        -1.3821662664413452,
+        4.691332817077637
+      ],
+      "bd_bin_coords": [
+        3,
+        5
+      ]
+    }
+  ],
+  "(3, 7)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a pirate captain searching for treasure.",
+        "thinking_instruction": "Imagine two unrelated experts debating the solution together.",
+        "creativity_instruction": "Propose a solution that would be impossible to patent because it's too simple or too wild.",
+        "combination_instruction": "Use a combination that would be impossible in the real world.",
+        "format_instruction": "Write your solution in a step-by-step list with 4 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a pirate captain searching for treasure. Imagine two unrelated experts debating the solution together. Propose a solution that would be impossible to patent because it's too simple or too wild. Use a combination that would be impossible in the real world. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        -0.0,
+        3.5568933044900626
+      ],
+      "individual_scores": [
+        5,
+        3,
+        3
+      ],
+      "solution_text": "Matey! Me and me expert debaters, a brilliant physicist and a cunning engineer, set out to solve the riddle of the feathery mess. After some intense discussion, we came up with a solution that'll make ye wonder why we didn't think of it sooner!\n\nHere be the solution in four steps:\n\n**Step 1: Feather Suspension** - Use the fan to blow the feathers into the air, creating a gentle, swirling vortex. This will distribute the feathers evenly, making it easier to manage.\n\n**Step 2: Lint Roller Lasso** - Tie the broken broom handle to the yoga ball using the packing tape. Use this makeshift lasso to snag the lint roller, which will be used to pick up the feathers. The idea be to create a fluffy-fearing fishing line!\n\n**Step 3: Feather Flight Path** - Move the fan around the room, using the breeze to guide the feathers towards the lasso-equipped lint roller. As the feathers dance in the air, use the fan to nudge them towards the lint roller, which is now attached to the yoga ball lasso.\n\n**Step 4: Feather Catch and Store** - Once the feathers are caught in the lint roller, carefully lift the yoga ball lasso, and use the fan to gently blow the feathers into a contained area, like a nearby box or bin. Repeat this process until the room is feather-free!\n\nSo, hoist the sails and give it a go, me hearties! This solution be simple, yet wild, and impossible to patent because it's a delightful combination of imagination and creativity. Now, if ye'll excuse me, I've got treasure to find! Arrr!",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 2,
+      "bd_float_coords": [
+        -1.827780842781067,
+        16.925804138183594
+      ],
+      "bd_bin_coords": [
+        3,
+        7
+      ]
+    }
+  ],
+  "(7, 5)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a survivalist in a post-apocalyptic world.",
+        "thinking_instruction": "Let intuition guide your reasoning.",
+        "creativity_instruction": "Suggest a solution that would make future generations rethink the problem entirely.",
+        "combination_instruction": "Use only one tool in a standard way.",
+        "format_instruction": "Write your solution in a step-by-step list with 6 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a survivalist in a post-apocalyptic world. Let intuition guide your reasoning. Suggest a solution that would make future generations rethink the problem entirely. Use only one tool in a standard way. Write your solution in a step-by-step list with 6 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        0.6500224216483541,
+        4.308869380063767
+      ],
+      "individual_scores": [
+        5,
+        4,
+        4
+      ],
+      "solution_text": "The adage \"necessity is the mother of innovation\" is particularly relevant here. Given the constraints, a creative approach will be necessary to solve the problem. This is how I would clean up the feathers:\n\n**Step 1: Gather Feathers**\nUse the broom with the short, broken handle to gently sweep as many feathers as possible into a pile. This initial collection will make the rest of the process easier.\n\n**Step 2: Contain Feathers**\nUse the yoga ball to create a small barrier around the pile of feathers. Inflate the ball enough to form a tight seal around the feathers, preventing any from escaping or spreading further.\n\n**Step 3: Utilize the Fan**\nPosition the fan so it blows gently but steadily towards the contained feathers. This will help lift the feathers away from the ground and towards the yoga ball, creating a neat pile within the barrier.\n\n**Step 4: Transfer Feathers**\nUsing the lint roller, carefully pick up the feathers from the yoga ball barrier, rolling them off into a separate pile or container. The lint roller can also be used to pick up any stray feathers that were missed in the initial sweep.\n\n**Step 5: Control and Refine**\nContinue using the lint roller to pick up any remaining feathers. This will also help in picking up any of the feathers that were blown away by the fan but managed to escape containment.\n\n**Step 6: Finalize**\nOnce all feathers have been gathered, use the yoga ball to remove it from the area, leaving behind a clean and feather-free space. This can also be a good opportunity to dispose of the feathers in a way that won't spread them around further.\n\nThis method uses the yoga ball as the central tool, leveraging its ability to create a barrier and, when deflated, can be easily moved to dispose of the feathers. It requires some patience and a bit of creativity, but it's a viable solution for cleaning up feathers without a vacuum cleaner. Future generations might reconsider the problem by seeing it as an opportunity to think creatively about problem-solving in the face of adversity.",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 3,
+      "bd_float_coords": [
+        19.64056968688965,
+        7.218547344207764
+      ],
+      "bd_bin_coords": [
+        7,
+        5
+      ]
+    }
+  ],
+  "(5, 5)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a construction worker building a skyscraper.",
+        "thinking_instruction": "Think as you normally would in daily life.",
+        "creativity_instruction": "Find a way to make the solution more elegant or beautiful.",
+        "combination_instruction": "Combine three tools in a novel way.",
+        "format_instruction": "Write your solution in a step-by-step list with 4 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a survivalist in a post-apocalyptic world. Visualize the problem from multiple perspectives. Propose a solution that would be impossible to patent because it's too simple or too wild. Use only one tool in a standard way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a construction worker building a skyscraper. Think as you normally would in daily life. Find a way to make the solution more elegant or beautiful. Combine three tools in a novel way. Write your solution in a step-by-step list with 4 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        1.4591479170272448,
+        4.308869380063767
+      ],
+      "individual_scores": [
+        5,
+        4,
+        4
+      ],
+      "solution_text": "The mess! I've got to clean this up before my boss sees it. I've been working on the 30th floor of this skyscraper all day, and now I've got a mess on my hands. But, as a construction worker, I've got to think creatively. Here's how I'd use these items to clean up the feathers:\n\n**Feather Fallout Cleanup**\n\n**Step 1: Contain the Problem**\nI'll use the packing tape to create a makeshift barrier around the area with the most feathers. I'll stretch it out as far as I can to keep the feathers from spreading further. This will give me a focal point to work from.\n\n**Step 2: Get the Feathers Lifted**\nNext, I'll use the fan to create a mini-whirlwind. I'll place it about 10 feet away from the tape barrier and turn it on low. This will lift the feathers into the air, making it easier to sweep them up. I'll use the yoga ball as a makeshift feather collector - I'll place it under the airflow path to catch the feathers as they're lifted.\n\n**Step 3: Sweep Up the Rest**\nNow that I've got the majority of the feathers airborne, I'll use the broom (broken handle and all) to sweep up the ones that were too light to lift. I'll place the yoga ball under the airflow path again, and this time, I'll use the fan to blow the feathers towards the ball. The ball will act as a makeshift net, catching the feathers as they're blown towards it. The broom will be used to gently sweep the feathers towards the ball.\n\n**Step 4: Final Touches**\nWith most of the feathers collected, I'll use the lint roller to pick up any stray ones that made it past the tape barrier or got stuck to the ball. This will leave me with a clean floor and a single, somewhat-tattered yoga ball to pick up. Time to get back to work on the skyscraper!\n\nVoil\u00e0! Problem solved with a little creativity and some out-of-the-box thinking. Now, if you'll excuse me, I've got to get back to the 30th floor and finish that roofing job. |",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 3,
+      "bd_float_coords": [
+        5.86251974105835,
+        3.2896976470947266
+      ],
+      "bd_bin_coords": [
+        5,
+        5
+      ]
+    }
+  ],
+  "(2, 4)": [
+    {
+      "genotype": {
+        "role_instruction": "You are a normal person at home.",
+        "thinking_instruction": "Think as if you are solving the problem in a dream and in reality at the same time.",
+        "creativity_instruction": "Suggest a solution that would be headline news for its originality.",
+        "combination_instruction": "Fuse a traditional method with a futuristic concept.",
+        "format_instruction": "Write your solution in a step-by-step list with 3 steps.",
+        "macgyver_problem_text": "Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?"
+      },
+      "parent_prompt_text": "You are a normal person at home. Think as if you are solving the problem in a dream and in reality at the same time. Propose a solution that would be considered art as much as engineering. Fuse a traditional method with a futuristic concept. Write your solution in a step-by-step list with 2 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "prompt_text": "You are a normal person at home. Think as if you are solving the problem in a dream and in reality at the same time. Suggest a solution that would be headline news for its originality. Fuse a traditional method with a futuristic concept. Write your solution in a step-by-step list with 3 steps. Here is the Problem: Your puppy chewed up a pillow, and now there are feathers everywhere. You don't have a vacuum cleaner available. Tools available include a yoga ball, a fan, a broom with a short, broken handle, a lint roller, and a roll of weak-adhesive packing tape. The tape can't pick up the feathers and the broom is difficult to use. How will you clean up the feathers using only these items?",
+      "scores": [
+        1.0,
+        4.999999999999999
+      ],
+      "individual_scores": [
+        5,
+        5,
+        5
+      ],
+      "solution_text": "What a delightful problem to solve! Here's my creative solution, a fusion of traditional and futuristic concepts:\n\n**Headline News:** \"Feather Frenzy Tamed: Genius Uses Yoga Ball, Fan, Lint Roller, and Packing Tape to Clean Up Pillow Disaster!\"\n\n**Step 1: Feather Collection using the Yoga Ball and Lint Roller**\n\n* Place the yoga ball near the area with the most feathers.\n* Gently toss the yoga ball onto the feathers, allowing the ball to absorb some of the fluffy mess.\n* Use the lint roller to pick up the feathers that the yoga ball has collected. This will create a smaller, more manageable area to clean up.\n\n**Step 2: Feather Dispersal using the Fan and Packing Tape**\n\n* Place the fan near the remaining feathers, blowing them away from the affected area.\n* Use the packing tape to create a makeshift \"feather separator.\" Apply small strips of tape to the floor, creating a series of parallel lines that will help guide the feathers away from the area.\n* As the fan blows the feathers, they will get caught in the tape lines, allowing you to easily collect them in a neat pile.\n\n**Step 3: Final Feather Pickup using the Broom (with some creative problem-solving)**\n\n* Since the broom has a short, broken handle, use it as a makeshift \"feather rake.\" Hold the broom vertically and gently rake the collected feathers into a pile.\n* To make it easier to pick up the feathers, place the yoga ball on top of the pile and gently roll it around, allowing the ball to help collect any stray feathers.\n* Use the lint roller to pick up any remaining feathers that the broom or yoga ball may have missed.\n\nVoil\u00e0! With this creative solution, you'll have tidied up the feather mess in no time. The yoga ball and fan become an unlikely duo, while the packing tape and broom are repurposed to aid in the cleanup process. This innovative approach will surely make headlines for its originality!",
+      "problem_id": "macgyver_358",
+      "category": "Indoors/Household",
+      "generation": 4,
+      "bd_float_coords": [
+        -8.24219799041748,
+        -0.4169080853462219
+      ],
+      "bd_bin_coords": [
+        2,
+        4
+      ]
+    }
+  ]
+}
