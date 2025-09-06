@@ -47,9 +47,11 @@ At the heart of the framework is the **MAP-Elites algorithm**, guided by a multi
 
 ### Installation
 
+```bash
 git clone <your-repository-url>
 cd <your-repository-directory>
 pip install numpy pandas pyyaml requests tqdm umap-learn scikit-learn matplotlib seaborn
+```
 
 ---
 
@@ -57,6 +59,7 @@ pip install numpy pandas pyyaml requests tqdm umap-learn scikit-learn matplotlib
 
 Before running experiments, set your Hugging Face API key and endpoints in `config.py`.
 
+```python
 # IMPORTANT: Replace with your actual key
 HF_API_KEY = "hf_YourHuggingFaceApiKeyHere"
 
@@ -65,6 +68,7 @@ GENERATOR_LLM_ENDPOINT = "https://<your-generator-endpoint>.aws.endpoints.huggin
 EVALUATOR_LLM_ENDPOINT = "https://<your-evaluator-endpoint>.aws.endpoints.huggingface.cloud"
 EMBEDDING_LLM_ENDPOINT = "https://<your-embedding-endpoint>.aws.endpoints.huggingface.cloud"
 NLI_MODEL_ENDPOINT = "https://<your-nli-endpoint>.aws.endpoints.huggingface.cloud"
+```
 
 ---
 
@@ -75,7 +79,9 @@ The main entry script is `run_experiment.py`.
 ### Step 1: Prepare UMAP Model
 Train the UMAP model (one-time setup):
 
+```bash
 python run_experiment.py prepare-umap
+```
 
 Generates `trained_umap_model.pkl` in `results/`.
 
@@ -85,13 +91,17 @@ Generates `trained_umap_model.pkl` in `results/`.
 
 **Baseline 1: No Prompt**
 
+```bash
 python main.py baseline_no_prompt --problem-id 351
 python main.py baseline_no_prompt
+```
 
 **Baseline 2: Random Prompt**
 
+```bash
 python main.py baseline_random_prompt --problem-id 351
 python main.py baseline_random_prompt
+```
 
 Results saved in `results/baseline_experiments/`.
 
@@ -101,11 +111,15 @@ Results saved in `results/baseline_experiments/`.
 
 Run on a specific problem:
 
+```bash
 python run_experiment.py run-me --problem-id 351
+```
 
 Run on randomly selected problems:
 
+```bash
 python run_experiment.py run-me
+```
 
 Results stored in `results/`.
 
@@ -115,13 +129,17 @@ Results stored in `results/`.
 
 **MAP-Elites Analysis**
 
+```bash
 python analysis_map.py
+```
 
 Outputs plots and reports to `analysis_map/`.
 
 **Baseline Comparison**
 
+```bash
 python analysis_baseline.py
+```
 
 Outputs comparison plots to `analysis_baseline/`.
 
@@ -134,4 +152,11 @@ Outputs comparison plots to `analysis_baseline/`.
 - **Cluster Performance**: Some clusters specialize in high convergent scores, others in divergent creativity, demonstrating controllable trade-offs.  
 - **Heatmaps & Examples**: Component-level analysis shows which roles, creativity cues, and formats yield the most effective creative problem-solving.  
 
+---
 
+## Citation
+
+If you use this code or framework, please cite:
+
+"Illuminating Prompt Space for Discovering Creativity in LLMs with MAP-Elites"  
+MSc Thesis, 2025.
