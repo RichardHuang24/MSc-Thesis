@@ -17,6 +17,12 @@ The experiment is structured into three phases:
 
 At the heart of the framework is the **MAP-Elites algorithm**, guided by a multi-objective fitness function and a **UMAP-defined behavioral space**.
 
+### Framework Flow Map
+
+The following diagram illustrates the full experimental framework, showing the **Preparation Phase**, **Evolutionary Generation Phase**, and **Logging & Output Phase**.
+
+![Framework Flow Map](flowmap.png)
+
 ---
 
 ## Key Features
