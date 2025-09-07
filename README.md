@@ -156,11 +156,4 @@ Outputs comparison plots to `analysis_baseline/`.
 - **Cluster Performance**: Some clusters specialize in high convergent scores, others in divergent creativity, demonstrating controllable trade-offs.  
 - **Heatmaps & Examples**: Component-level analysis shows which roles, creativity cues, and formats yield the most effective creative problem-solving.  
 
----
 
-## Citation
-
-If you use this code or framework, please cite:
-
-"Illuminating Prompt Space for Discovering Creativity in LLMs with MAP-Elites"  
-MSc Thesis, 2025.
