@@ -1,6 +1,6 @@
-# MSc-Thesis
+# UCL-CSML-MSc-Project
 
-This repository contains the code for the MSc Thesis Report:  
+This repository contains the code for the MSc CSML Project Thesis Report:  
 **"Illuminating Prompt Space for Discovering Creativity in LLMs with MAP-Elites."**
 
 The project applies the **MAP-Elites algorithm** to systematically explore and discover diverse, high-performing prompts that enhance the creative problem-solving abilities of Large Language Models (LLMs).
